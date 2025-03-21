@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASP.Net\\ManageFlightTickets\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|e:\\asp.net\\dangthongnghia\\manageflighttickets\\manageflighttickets\\migrations\\20250321140637_addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|solutionrelative:manageflighttickets\\migrations\\20250321140637_addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|e:\\asp.net\\dangthongnghia\\manageflighttickets\\manageflighttickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|solutionrelative:manageflighttickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|e:\\asp.net\\dangthongnghia\\manageflighttickets\\manageflighttickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|solutionrelative:manageflighttickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|e:\\asp.net\\dangthongnghia\\manageflighttickets\\manageflighttickets\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|solutionrelative:manageflighttickets\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|e:\\asp.net\\dangthongnghia\\manageflighttickets\\manageflighttickets\\data\\manageflighttickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|solutionrelative:manageflighttickets\\data\\manageflighttickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|e:\\asp.net\\dangthongnghia\\manageflighttickets\\manageflighttickets\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|solutionrelative:manageflighttickets\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|e:\\asp.net\\dangthongnghia\\manageflighttickets\\manageflighttickets\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC7B01-686E-45F8-95D0-2450028368AC}|ManageFlightTickets\\ManageFlightTickets.csproj|solutionrelative:manageflighttickets\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -22,6 +55,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250321140637_AddAccount.cs",
+              "DocumentMoniker": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Migrations\\20250321140637_AddAccount.cs",
+              "RelativeDocumentMoniker": "ManageFlightTickets\\Migrations\\20250321140637_AddAccount.cs",
+              "ToolTip": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Migrations\\20250321140637_AddAccount.cs",
+              "RelativeToolTip": "ManageFlightTickets\\Migrations\\20250321140637_AddAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:06:37.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageFlightTickets.cs",
+              "DocumentMoniker": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Data\\ManageFlightTickets.cs",
+              "RelativeDocumentMoniker": "ManageFlightTickets\\Data\\ManageFlightTickets.cs",
+              "ToolTip": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Data\\ManageFlightTickets.cs",
+              "RelativeToolTip": "ManageFlightTickets\\Data\\ManageFlightTickets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:47:42.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "ManageFlightTickets\\Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "ManageFlightTickets\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:45:07.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ManageFlightTickets\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ManageFlightTickets\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:43:50.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Program.cs",
+              "RelativeDocumentMoniker": "ManageFlightTickets\\Program.cs",
+              "ToolTip": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Program.cs",
+              "RelativeToolTip": "ManageFlightTickets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:43:48.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\appsettings.json",
+              "RelativeDocumentMoniker": "ManageFlightTickets\\appsettings.json",
+              "ToolTip": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\appsettings.json",
+              "RelativeToolTip": "ManageFlightTickets\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T06:19:02.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "ManageFlightTickets\\Models\\Account.cs",
+              "ToolTip": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\Models\\Account.cs",
+              "RelativeToolTip": "ManageFlightTickets\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:15:48.173Z",
+              "EditorCaption": ""
             }
           ]
         },

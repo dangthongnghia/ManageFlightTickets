@@ -1,0 +1,6 @@
+# Bỏ qua tệp appsettings.json
+appsettings.json
+
+# Bỏ qua thư mục bin và obj
+bin/
+obj/

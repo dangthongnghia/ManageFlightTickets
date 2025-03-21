@@ -1,8 +1,12 @@
-﻿namespace ManageFlightTickets.Models
+﻿using Microsoft.EntityFrameworkCore.SqlServer;
+using System.ComponentModel.DataAnnotations;
+
+
+namespace ManageFlightTickets.Models
 {
     public class Account
     {
-       
+        [Key]
         public string IdAccount { get; set; } 
         public string Username { get; set; }
         public string Password { get; set; }

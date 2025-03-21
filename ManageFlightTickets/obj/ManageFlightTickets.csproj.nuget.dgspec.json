@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.Net\\ManageFlightTickets\\ManageFlightTickets\\ManageFlightTickets.csproj": {}
+    "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\ManageFlightTickets.csproj": {}
   },
   "projects": {
-    "D:\\ASP.Net\\ManageFlightTickets\\ManageFlightTickets\\ManageFlightTickets.csproj": {
+    "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\ManageFlightTickets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.Net\\ManageFlightTickets\\ManageFlightTickets\\ManageFlightTickets.csproj",
+        "projectUniqueName": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\ManageFlightTickets.csproj",
         "projectName": "ManageFlightTickets",
-        "projectPath": "D:\\ASP.Net\\ManageFlightTickets\\ManageFlightTickets\\ManageFlightTickets.csproj",
+        "projectPath": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\ManageFlightTickets.csproj",
         "packagesPath": "C:\\Users\\DangNghia\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.Net\\ManageFlightTickets\\ManageFlightTickets\\obj\\",
+        "outputPath": "E:\\ASP.Net\\dangthongnghia\\ManageFlightTickets\\ManageFlightTickets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,9 +51,23 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.21.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -74,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
